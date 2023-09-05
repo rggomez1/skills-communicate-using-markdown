@@ -6,3 +6,6 @@
 ###### <h6> Added a header 2 here
 
 # Committing my first page with markdown language here.   
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
