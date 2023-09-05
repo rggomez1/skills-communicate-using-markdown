@@ -7,5 +7,16 @@
 
 # Committing my first page with markdown language here.   
 
-
+# <h6> Adding a picture here
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+###### Adding sample Java script code
+``` javascript
+var myVar = "Hello, world!";
+```
+
+###### Adding command line code
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
